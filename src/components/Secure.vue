@@ -1,17 +1,14 @@
 <template>
-  <div class="hello">
-      {{msg}}
-      <h3>  Install  bootstrap</h3>
-      <h3>  Remove all styles from body</h3>
+  <div id="hello">
+    <h2>Welcome to secure page</h2>
   </div>
 </template>
-
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Secure',
   data () {
     return {
-      msg: 'Welcome'
+      msg: 'Welcome to secure page'
     }
   }
 }
