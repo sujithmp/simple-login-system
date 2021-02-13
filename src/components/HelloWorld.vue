@@ -1,8 +1,6 @@
 <template>
-  <div class="hello">
+  <div class="helloo">
       {{msg}}
-      <h3>  Install  bootstrap</h3>
-      <h3>  Remove all styles from body</h3>
   </div>
 </template>
 
